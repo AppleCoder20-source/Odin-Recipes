@@ -1,1 +1,1 @@
-A recipe website with step by step instructions from Odin Project!
+A recipe website  from Odin Project!
